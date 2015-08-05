@@ -1,0 +1,19 @@
+{
+  "name": "js-skelton",
+  "version": "0.0.0",
+  "authors": [
+    "aihara <aihara@argmax.jp>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "superagent": "~1.2.0",
+    "react": "~0.13.3"
+  }
+}
